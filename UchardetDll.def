@@ -1,0 +1,9 @@
+LIBRARY	"UchardetDll"
+
+EXPORTS
+uchardet_new=uchardet_new
+uchardet_delete=uchardet_delete
+uchardet_handle_data=uchardet_handle_data
+uchardet_data_end=uchardet_data_end
+uchardet_reset=uchardet_reset
+uchardet_get_charset=uchardet_get_charset
