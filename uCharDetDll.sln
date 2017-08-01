@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "uCharDetDll", "uCharDetDll\uCharDetDll.vcproj", "{F738D621-8C3F-454E-98E3-8C12E233254A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "whatEncoding", "whatEncoding\whatEncoding.vcproj", "{F3726EBF-A6BA-49A1-843A-E991C566BFE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F738D621-8C3F-454E-98E3-8C12E233254A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F738D621-8C3F-454E-98E3-8C12E233254A}.Debug|Win32.Build.0 = Debug|Win32
+		{F738D621-8C3F-454E-98E3-8C12E233254A}.Release|Win32.ActiveCfg = Release|Win32
+		{F738D621-8C3F-454E-98E3-8C12E233254A}.Release|Win32.Build.0 = Release|Win32
+		{F3726EBF-A6BA-49A1-843A-E991C566BFE5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F3726EBF-A6BA-49A1-843A-E991C566BFE5}.Debug|Win32.Build.0 = Debug|Win32
+		{F3726EBF-A6BA-49A1-843A-E991C566BFE5}.Release|Win32.ActiveCfg = Release|Win32
+		{F3726EBF-A6BA-49A1-843A-E991C566BFE5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
